@@ -1,0 +1,1 @@
+phrase sans ponctuation ni majuscule
